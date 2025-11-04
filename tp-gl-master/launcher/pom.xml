@@ -48,6 +48,12 @@
       <version>0.0.1</version>
       <type>jar</type>
     </dependency>
+    <dependency>
+    <groupId>org.emp.gl</groupId>
+    <artifactId>timer-service-client</artifactId>
+    <version>0.0.1</version> <!-- à adapter si la version est différente -->
+</dependency>
+
   </dependencies>
 
   <build>
